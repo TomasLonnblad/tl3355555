@@ -11,7 +11,9 @@ import Component3 from '@/components/animated-modal-demo'
 
 export default function IndexPage() {
   return <>
+  <main>
   <AnimatedLanding />
   <Component3 />
+  </main>
   </>
 }
